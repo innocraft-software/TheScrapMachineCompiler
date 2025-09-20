@@ -1,6 +1,14 @@
 # THE SCRAP MACHINE
 The scrap machine is a project to create a basic processor from scratch in scrapmechanic. It runs a customs et of 16 bit instructions and ships with a compiler to compile from a made up language called smscript to this assembly instruction set.
 
+## Code Quality Disclaimer
+This project was created over multiple years with long breaks between sessions and served as a coding exercise and means to experiment with design patterns and architectures. These decisions were made with no regard to the functional goals of the program and, thus, often do not align with them. Furthermore, some features were not implemented, resulting in unelegant solutions, such as the persistence adapters. The methods used in both the processor and compiler are likely not standard and were not based on research but on a fully custom design with likely many unfavorable trade-offs. I provide this code for the project reference, but please do not use it as any code quality reference or standard on how compilers should be made. It clearly is neither :)
+
+## Links
+- Get the processor on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3571357584
+- See the Scrap Machine in action on YouTube: https://youtu.be/04noe1W0kDQ?si=5_WMji2bRgaPoapD
+
+
 ## User Guide
 ### Creating machine code
 1. Insert your in and output filepaths into com/idt/ScrapMachineCompilerApplication.java
@@ -9,7 +17,7 @@ The scrap machine is a project to create a basic processor from scratch in scrap
 4. Run the main method
 
 ### Running machine code on the scrap machine
-1. Place the scrap machine in your scrapmechanic world using the lift
+1. Place the scrap machine (https://steamcommunity.com/sharedfiles/filedetails/?id=3571357584) in your scrapmechanic world using the lift
 2. Save any creation on the lift (the in game content will be overwritten later)
 3. Find the blueprint in your appdata folder
 4. Replace the blueprint.json file with the one in the output folder of your product. (Additionally the compiler also creates a human readable translation of the assembly and a binary used for the sumulator)
