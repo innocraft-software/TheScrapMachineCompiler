@@ -1,0 +1,21 @@
+// Compute the nth Fibonacci number
+var n
+var a
+var b
+var temp
+var count
+
+// Find the 7th Fibonacci number
+n = 7
+a = 0
+b = 1
+count = 2
+
+while count <= n
+    temp = b
+    b = a + b
+    a = temp
+    count = count + 1
+end
+// Result will be in 'b'
+b = b + 1

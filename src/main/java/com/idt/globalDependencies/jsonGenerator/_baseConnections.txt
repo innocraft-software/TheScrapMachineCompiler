@@ -1,0 +1,584 @@
+        {
+          "bounds":{
+            "x":{{BASE_LENGTH}},
+            "y":31,
+            "z":1
+          },
+          "color":"9B683A",
+          "pos":{
+            "x":12,
+            "y":-3,
+            "z":2
+          },
+          "shapeId":"df953d9c-234f-4ac2-af5e-f0490b223e71",
+          "xaxis":1,
+          "zaxis":3
+        },
+
+
+
+
+
+
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT11}},
+            "id":100,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":28,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT10}},
+            "id":101,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":27,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT9}},
+            "id":102,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":26,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT8}},
+            "id":103,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":25,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT7}},
+            "id":104,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":24,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT6}},
+            "id":105,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":23,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT5}},
+            "id":106,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":22,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT4}},
+            "id":107,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":21,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT3}},
+            "id":108,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":20,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT2}},
+            "id":109,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":19,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT1}},
+            "id":110,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":18,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"E2DB13",
+          "controller":{
+            "active":false,
+            "controllers":{{BASE_CONNECTIONS_BIT0}},
+            "id":111,
+            "joints":null,
+            "mode":0
+          },
+          "pos":{
+            "x":12,
+            "y":17,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":112,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":13,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":113,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":12,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":114,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":11,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":115,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":10,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":116,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":9,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":117,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":8,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":118,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":7,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":119,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":6,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":120,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":5,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":121,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":4,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":122,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":3,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":123,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":2,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":124,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":1,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":125,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":0,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":126,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":-1,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+        {
+          "color":"118787",
+          "controller":{
+            "active":false,
+            "controllers":null,
+            "id":127,
+            "joints":null,
+            "mode":1
+          },
+          "pos":{
+            "x":12,
+            "y":-2,
+            "z":3
+          },
+          "shapeId":"9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+          "xaxis":1,
+          "zaxis":-2
+        },
+
+
+
+
+        {{LAYER_AGGREGATORS}}

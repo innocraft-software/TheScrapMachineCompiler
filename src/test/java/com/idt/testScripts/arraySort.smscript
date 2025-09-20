@@ -1,0 +1,93 @@
+// note in this example we do not care if we mess up the array
+// declare the array
+var a1
+var a2
+var a3
+var a4
+
+// populate the array
+a1 = 6
+a2 = 4
+a3 = 8
+a4 = 2
+
+// declare the output
+var o1
+var o2
+var o3
+var o4
+
+// find minimum
+var minimum
+
+
+var loopIndex
+loopIndex = 0
+while loopIndex < 4
+    minimum = a1
+
+    // "iterate" the pseudo array and find minimum
+    // we can not do for loops so we cave to copy paste
+    if minimum > a2
+        minimum = a2
+    end
+
+    if minimum > a3
+        minimum = a3
+    end
+
+    if minimum > a4
+        minimum = a4
+    end
+    // end for loop
+
+    var knownToBeBigger
+    knownToBeBigger = 100
+    // "iterate" the pseudo array and eliminate the minimum
+    // we can not do for loops so we cave to copy paste
+    if minimum == a1
+        a1 = knownToBeBigger
+    end
+
+    if minimum == a2
+        a2 = knownToBeBigger
+    end
+
+    if minimum == a3
+        a3 = knownToBeBigger
+    end
+
+    if minimum == a4
+        a4 = knownToBeBigger
+    end
+    // end for loop
+
+
+
+
+
+    // "iterate" the pseudo array and write minimum
+    // we can not do for loops so we cave to copy paste
+    if loopIndex == 0
+        o1 = minimum
+    end
+
+    if loopIndex == 1
+        o2 = minimum
+    end
+
+    if loopIndex == 2
+        o3 = minimum
+    end
+
+    if loopIndex == 3
+        o4 = minimum
+    end
+    // end for loop
+
+    // increment
+    loopIndex = loopIndex + 1
+end
+
+var output
+output = o1 + 10 * o2 + 100 * o3 + 1000 * o4

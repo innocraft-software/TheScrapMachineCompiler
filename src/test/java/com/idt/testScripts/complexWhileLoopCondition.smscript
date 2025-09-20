@@ -1,0 +1,15 @@
+// Test complex conditions in while loop
+var x
+var y
+
+x = 0
+y = 10
+
+while (x < y) && (y > 5)
+    x = x + 1
+    y = y - 1
+end
+
+// make the result readable
+var result
+result = x + y

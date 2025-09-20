@@ -1,0 +1,14 @@
+// Test basic arithmetic operations
+var x
+var y
+var result
+
+x = 5
+y = 3
+result = x + y
+result = result - 2
+result = result * 4
+result = result / 2
+
+// stupid way of loading the result to register so I can see it
+result = result + 1

@@ -1,0 +1,33 @@
+// declarations
+var base
+var exponent
+var result
+
+// input
+base = 8
+exponent = 0
+
+
+// exception case exponent = 0
+if exponent == 0
+	result = 1
+end
+
+// calculation for all other exponents
+if exponent > 0
+	// initialize result
+	result = base
+
+	// initialize counter
+	var ctr
+	ctr = 1
+
+	// calculate loop
+	while ctr<exponent
+		result = result*base
+		ctr = ctr + 1
+	end
+end
+
+// stupid way of loading the result to register so I can see it
+result = result + 1

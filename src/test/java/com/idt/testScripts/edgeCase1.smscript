@@ -1,0 +1,15 @@
+// Test negative numbers and zero
+var x
+var y
+var z
+
+x = 0-5
+y = 0
+z = x + y
+
+if z < 0
+    z = z * (0-1)
+end
+
+// stupid way of loading the result to register so I can see it
+z = z + 1

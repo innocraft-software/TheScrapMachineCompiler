@@ -1,0 +1,18 @@
+// Test nested if statements
+var x
+var y
+var z
+
+x = 10
+y = 20
+z = 0
+
+if x < y
+    z = z + 1
+    if x + z > y
+        z = z + 10
+    end
+end
+
+// stupid way of loading the result to register so I can see it
+z = z + 1

@@ -1,0 +1,32 @@
+// Generate Pascal's Triangle for n rows
+var n
+var row
+var col
+var current
+var previous
+var temp
+var i
+
+n = 5 // Number of rows
+row = 0
+
+// Initialize the first row
+current = 1
+
+while row < n
+    col = 0
+    temp = current
+    while col <= row
+        previous = temp - (temp/10) * 10
+        temp = temp / 10
+        var print
+        print = previous
+        col = col + 1
+    end
+
+    // Calculate the next row in Pascal's Triangle
+    current = cal
+end
+
+// load
+print = print + 1

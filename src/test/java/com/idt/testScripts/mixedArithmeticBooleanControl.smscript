@@ -1,0 +1,14 @@
+// Test arithmetic combined with boolean logic
+var a
+var b
+var result
+
+a = 7
+b = 3
+
+if (a > b) && (b + 2 == 5)
+    result = a * b
+end
+
+// stupid way of loading the result to register so I can see it
+result = result + 1

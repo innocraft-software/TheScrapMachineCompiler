@@ -1,0 +1,20 @@
+// Test nested while loops
+var outer
+var inner
+var result
+
+outer = 0
+inner = 0
+result = 0
+
+while outer < 3
+    inner = 0
+    while inner < 2
+        result = result + (outer * inner)
+        inner = inner + 1
+    end
+    outer = outer + 1
+end
+
+// stupid way of loading the result to register so I can see it
+result = result + 1
